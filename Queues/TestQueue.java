@@ -1,9 +1,3 @@
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 5
-//IDE Name: IntelliJ
 import java.util.Scanner;
 //this method allows the user to do basic operations with queues
 public class TestQueue {
