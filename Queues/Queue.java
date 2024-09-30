@@ -1,9 +1,3 @@
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 5
-//IDE Name: IntelliJ
 //this is a class that is used to make queues
 //a queue works like a line, FIFO, first element in is the first element to be removed
 public class Queue<E> {
