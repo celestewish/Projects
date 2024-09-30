@@ -1,9 +1,3 @@
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 4
-//IDE Name: IntelliJ
 //this program is used to create the Stack blueprint
 public class MyStack<E> {
     //attributes
