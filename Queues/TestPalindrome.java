@@ -1,9 +1,3 @@
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 5
-//IDE Name: IntelliJ
 import java.util.Scanner;
 //this program tests if a string is a palindrome in two different ways
 public class TestPalindrome {
