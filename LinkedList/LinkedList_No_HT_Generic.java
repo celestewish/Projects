@@ -3,12 +3,6 @@
   The class does NOT use Head and Tail pointer as the textbook class deos.
   Same class as before, but now is generic.
 */
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 3
-//IDE Name: IntelliJ
 public class LinkedList_No_HT_Generic<E>
 {
     public Node<E> ListName;
