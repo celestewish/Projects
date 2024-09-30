@@ -1,10 +1,5 @@
 import java.util.Scanner;
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 2
-//IDE Name: IntelliJ
+
 /*This code computes the average grades that a class has using recursion.
  */
 public class AverageGrades {
