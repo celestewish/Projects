@@ -1,20 +1,14 @@
 /*
-  This class define a linked list that stores integer values.
+  This class defines a linked list that stores integer values.
   The class does NOT use Head and Tail pointer as the textbook class deos.
 */
 
 import java.util.List;
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 3
-//IDE Name: IntelliJ
 public class LinkedList_No_HT
 {
    public Node ListName;
 
-   //constructor method to create a list object with a specifc name. 
+   //constructor method. 
    public LinkedList_No_HT()
    {
       ListName = null;
