@@ -1,9 +1,3 @@
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 4
-//IDE Name: IntelliJ
 import java.util.Scanner;
 //this program allows the user to do basic operations with a stack
 public class TestMyStack {
