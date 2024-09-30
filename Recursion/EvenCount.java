@@ -1,9 +1,3 @@
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 2
-//IDE Name: IntelliJ
 import java.util.Random;
 import java.util.Scanner;
 public class EvenCount {
