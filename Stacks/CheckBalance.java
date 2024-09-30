@@ -1,9 +1,3 @@
-//Name: Lauren Rousell
-//Class: CS 3305/H01
-//Term: Fall 2024
-//Instructor: Dr. Haddad
-//Assignment: 4
-//IDE Name: IntelliJ
 import java.util.Scanner;
 //this program uses stacks to check if the parenthesis are balanced in a math equation
 public class CheckBalance {
